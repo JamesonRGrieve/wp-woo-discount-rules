@@ -1,7 +1,7 @@
 # wp-woo-discount-rules — Agent Operating Guide
 
 AGPL-3.0-or-later WordPress plugin (requires WooCommerce): discount rules beyond plain coupons for WooCommerce, enforced exactly as the source store enforced them.
-README.md is the contract. PHP rules: `/home/jameson/Source/ai-prompts/php.md`.
+README.md is the contract. PHP rules: SOP *Stack Standards → PHP*.
 
 ## Layout
 
